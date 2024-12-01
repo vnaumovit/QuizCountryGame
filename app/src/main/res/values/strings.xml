@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz Country Game</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="zero">0</string>
+    <string name="countryValueDefault">Country Name</string>
+    <string name="question">Question:</string>
+    <string name="flag_quiz_game">Flag Quiz Game</string>
+    <string name="back"><![CDATA[< Back]]></string>
+</resources>
